@@ -102,4 +102,3 @@ The next phase of this project is to create a Power BI dashboard to visualize:
 * Customer activity
 * Product performance
 
-Joe Musa
